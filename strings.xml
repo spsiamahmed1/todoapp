@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="hint">নতুন কাজ লিখুন…</string>
+    <string name="add">যোগ করুন</string>
+    <string name="empty">কোনো কাজ নেই</string>
+    <string name="delete">মুছুন</string>
+</resources>
